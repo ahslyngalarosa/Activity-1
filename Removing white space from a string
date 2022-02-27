@@ -1,0 +1,17 @@
+class Main{ 
+  public static void main(String[] args)
+  
+  {
+  
+    String str = " I L O V E Y O U ";
+    
+   
+    str = str.replaceAll("\\s", ""); 
+
+       
+
+        System.out.println(str); 
+
+ 
+  }
+}
